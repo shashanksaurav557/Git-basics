@@ -10,3 +10,5 @@ Learning Python fundamentals and Git workflow.
 ```
 python hello.py
 ```
+
+## Learning Git commands
